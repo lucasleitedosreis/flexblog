@@ -6,6 +6,8 @@ Plataforma de Cursos: Origamid
 
 Professor : André Rafael
 
+<p>Site desenvolvido para estudos de Css FlexBox</p>
+
 <h3>Site desenvolvido com:</h3>
 
  <ul>
