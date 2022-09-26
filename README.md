@@ -1,7 +1,17 @@
-flexblog
-Site criado para estudos de CSS Flexbox. 
-Professor: André Rafael 
-Curso Origamid.
+<h1 align="center">FlexBlog</h1>
+
+[Acesse o site](https://lucasleitedosreis.github.io/flexblog/ "FlexBlog")
+
+Plataforma de Cursos: Origamid
+
+Professor : André Rafael
+
+<h3>Site desenvolvido com:</h3>
+
+ <ul>
+   <li>Html</li>
+   <li>Css</li>
+ </ul>
 
 
 página incial - home
