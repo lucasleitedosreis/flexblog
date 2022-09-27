@@ -2,11 +2,11 @@
 
 [Acesse o site](https://lucasleitedosreis.github.io/flexblog/ "FlexBlog")
 
-Plataforma de Cursos: Origamid
+Plataforma de Cursos: Origamid.
 
-Professor : André Rafael
+Professor : André Rafael.
 
-<p>Site desenvolvido para estudos de Css FlexBox</p>
+<p>Site desenvolvido para estudos de Css FlexBox.</p>
 
 <h3>Site desenvolvido com:</h3>
 
